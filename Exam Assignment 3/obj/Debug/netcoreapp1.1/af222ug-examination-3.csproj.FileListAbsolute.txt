@@ -1,0 +1,8 @@
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\bin\Debug\netcoreapp1.1\af222ug-examination-3.deps.json
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\bin\Debug\netcoreapp1.1\af222ug-examination-3.runtimeconfig.json
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\bin\Debug\netcoreapp1.1\af222ug-examination-3.runtimeconfig.dev.json
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\bin\Debug\netcoreapp1.1\af222ug-examination-3.dll
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\bin\Debug\netcoreapp1.1\af222ug-examination-3.pdb
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\obj\Debug\netcoreapp1.1\af222ug-examination-3.AssemblyInfo.cs
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\obj\Debug\netcoreapp1.1\af222ug-examination-3.dll
+c:\Users\alvaf\WP\1dv024\af222ug-examination-3\obj\Debug\netcoreapp1.1\af222ug-examination-3.pdb
